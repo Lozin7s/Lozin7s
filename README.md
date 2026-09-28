@@ -9,7 +9,7 @@ Eae, Eu faço Modelos 3d e Animações, Bom e so isso ツ
 
 ## Obrigado RDK Games
 <div align="center">
-  <img width="500" alt="Logo rdk Games" src="https://github.com/user-attachments/assets/f7ab553a-4f3e-426c-a994-efdf4434a944" />
+  <img width="1280" height="600" alt="Image" src="https://github.com/user-attachments/assets/42df07b8-b742-4146-874e-1391564ec02c" />
 </div>
 
 ## Estatísticas
